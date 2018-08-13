@@ -1,5 +1,5 @@
 # code here!
-def School 
+def School
   def initialize(name)
     @name = name
   end
