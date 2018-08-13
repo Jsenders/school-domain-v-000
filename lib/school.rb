@@ -1,5 +1,5 @@
 # code here!
-def School
+class School
 attr_accessor :name, :roster
   def initialize(name)
     @name = name
@@ -7,4 +7,3 @@ attr_accessor :name, :roster
 
 
 end
-
